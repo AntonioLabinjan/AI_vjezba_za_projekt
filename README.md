@@ -1,1 +1,1 @@
-ZADNJIMODEL.py  i onaj neki jedini CSV koji iman gore su bitni!!!!!!!!!!!!!
+ZADNJIMODEL.py  i onaj jedini submissions.csv koji iman gore su bitni!!!!!!!!!!!!!
